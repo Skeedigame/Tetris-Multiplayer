@@ -2,8 +2,7 @@
 <img src="https://i.imgur.com/35IA11d.png" </a>
 
 <p align="center"> 
-
-  # Multiplayer
+ # Multiplayer
 
 </a>
 
