@@ -1,0 +1,5 @@
+Red = script.parent.red
+Blue = script.parent.blue
+Yellow = script.parent.yellow
+
+game.colormash > > RBY
