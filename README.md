@@ -27,4 +27,5 @@ the file again.
 
 ---
 ### Ingame Screenshot
+  <p align="center">
   <img src="https://i.imgur.com/FywZ2mV.png" </a>
