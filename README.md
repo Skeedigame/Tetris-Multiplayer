@@ -24,9 +24,7 @@ Tetris Multiplayer is a fork of an old version of tetris I found online. Play Te
 <h2 align="center">Important:</h2>
 After you run the exe it may appear as nothing has happened. Just wait patiently as the game is creating the
 neccessary directories to run. If a extended amount of time has passed and the game still hasn't opened, run
-the file again.
-
-
+the file again. </a>
 --
 
 <h3 align="center">Ingame Screenshot</h3>
