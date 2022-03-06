@@ -24,7 +24,7 @@ After you run the exe it may appear as nothing has happened. Just wait patiently
 neccessary directories to run. If a extended amount of time has passed and the game still hasn't opened, run
 the file again.
 
---
+  --
 <h3 align="center">Ingame Screenshot</h3>
 
   <p align="center">
