@@ -1,9 +1,8 @@
 <p align="center">
 <img src="https://i.imgur.com/35IA11d.png" </a>
 
-<p align="center"> 
+<t align="center"> 
  # Multiplayer
-
 
 </a>
 
