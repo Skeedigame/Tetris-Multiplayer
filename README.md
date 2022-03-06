@@ -1,9 +1,7 @@
 <p align="center">
 <img src="https://i.imgur.com/35IA11d.png" </a>
 
-<p align="center">
-    # Multiplayer
-</p>
+<h1 align="center"># Multiplayer</h1>
 
 <p align="center"> 
 Tetris Multiplayer is a fork of an old version of tetris I found online. Play Tetris alongside your friends in a intense 1v1!
