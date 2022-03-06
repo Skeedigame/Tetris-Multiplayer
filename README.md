@@ -25,7 +25,6 @@ neccessary directories to run. If a extended amount of time has passed and the g
 the file again.
 
 --
-
 <h3 align="center">Ingame Screenshot</h3>
 
   <p align="center">
