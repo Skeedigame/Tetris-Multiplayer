@@ -5,7 +5,7 @@
 
 <p align="center"> 
 Tetris Multiplayer is a fork of an old version of tetris I found online. Play Tetris alongside your friends in a intense 1v1!
-  This is a part of my school project so report any issues or bugs on here, and feel free to play with friends to report bugs!
+  This is a part of my school project so report any issues or bugs on here, and feel free to invite more friends and play to report bugs!
 </a>  
   
   
